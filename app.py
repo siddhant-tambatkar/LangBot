@@ -66,8 +66,7 @@
 #             st.write("--------------------------------")
 
 # # Load the GROQ and Google API keys directly in the file
-# groq_api_key = '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'
-# google_api_key = 'AIzaSyAMRRmVUhhDTc3W045W8dbFoX4CXJJcmNc'
+
 import streamlit as st
 import os
 from langchain_groq import ChatGroq
