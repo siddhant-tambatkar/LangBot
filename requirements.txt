@@ -9,7 +9,7 @@ langchain_community
 python-dotenv
 pypdf
 google-cloud-aiplatform>=1.38
-speech_recognition
+SpeechRecognition
 gtts
 pyttsx3
 time
